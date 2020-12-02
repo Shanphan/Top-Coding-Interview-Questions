@@ -7,8 +7,8 @@ Arrays
         --Sort an array of 0’s 1’s 2’s without using extra space or sorting algo 
         --Repeat and Missing Number
         --Merge two sorted Arrays without extra space 
-       --Kadane’s Algorithm
-       --Pascal Triangle 
+        --Kadane’s Algorithm
+        --Pascal Triangle 
         --Next Permutation
         --Stock Buy and Sell
     
